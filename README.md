@@ -1,7 +1,7 @@
 
 ### Hi there, my name is Mike 👋
 ## I am a Data Analyst / Environmental Scientist / Conservationist
-
+![Barends's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarendBester&show_icons=true&theme=radical)
 - 🔭 I’m currently working on ... Python
 - 🌱 I’m currently learning ... German 
 - 👯 I’m looking to collaborate on ... Data exploration/analysis
@@ -11,7 +11,5 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am a South African that immigrated to Germany
 
-- ![grafik](https://github.com/WhiteShark911/WhiteShark911/assets/121133689/dbdde3f8-b03e-4487-a584-7649a363092c)
-- ![grafik](https://github.com/WhiteShark911/WhiteShark911/assets/121133689/5f41d67d-c78a-4947-adc5-5de71cad73d7)
-- ![grafik](https://github.com/WhiteShark911/WhiteShark911/assets/121133689/972a69e4-2c1f-40eb-a7c1-dbf59a94e82a)
+
 -->
