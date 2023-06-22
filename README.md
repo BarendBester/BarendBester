@@ -10,8 +10,7 @@
 - 📫 How to reach me: ... [Linkedln](https://www.linkedin.com/in/mike-bester-0884a8187/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am a South African that immigrated to Germany
-- ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
-
+![grafik](https://github.com/BarendBester/WhiteShark911/assets/121133689/f3a0cdc8-43db-4f91-a85a-f93f43142d2a) 
 - ![grafik](https://github.com/WhiteShark911/WhiteShark911/assets/121133689/dbdde3f8-b03e-4487-a584-7649a363092c)
 - ![grafik](https://github.com/WhiteShark911/WhiteShark911/assets/121133689/5f41d67d-c78a-4947-adc5-5de71cad73d7)
 - ![grafik](https://github.com/WhiteShark911/WhiteShark911/assets/121133689/972a69e4-2c1f-40eb-a7c1-dbf59a94e82a)
