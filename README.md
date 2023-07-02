@@ -1,6 +1,6 @@
 
 ### Hi there, my name is Mike 👋
-## I am a Data Analyst / Environmental Scientist / Conservationist
+## I am a Data Analyst
 
 - 🔭 I’m currently working on ... Python
 - 🌱 I’m currently learning ... German 
