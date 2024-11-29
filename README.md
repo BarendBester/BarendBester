@@ -2,14 +2,14 @@
 ### Hi there, my name is Mike 👋
 ## I am a Data Analyst
 ![Header](https://example.com/your-header-image.png)
-![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)
-![Languages](https://img.shields.io/github/languages/count/your-username/your-repo)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)
+![GitHub followers](https://img.shields.io/github/followers/BarendBester?label=Followers&style=social)
+![Languages](https://img.shields.io/github/languages/count/BarendBester/your-repo)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarendBester&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BarendBester&layout=compact&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BarendBester&theme=react-dark)
 ### Featured Projects
-- [**Project Name**](https://github.com/your-username/project-repo): Brief description.
-- [**Another Project**](https://github.com/your-username/another-repo): Brief description.
+- [**Project Name**](https://github.com/BarendBester/project-repo): Brief description.
+- [**Another Project**](https://github.com/BarendBester/another-repo): Brief description.
 
 
 
