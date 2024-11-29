@@ -1,6 +1,9 @@
 
 ### Hi there, my name is Mike 👋
 ## I am a Data Analyst
+![Header](https://example.com/your-header-image.png)
+![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)
+![Languages](https://img.shields.io/github/languages/count/your-username/your-repo)
 
 - 🔭 I’m currently working at CCP GmbH
 - 🌱 I’m currently improving my Software Knowledge 
