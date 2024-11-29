@@ -1,6 +1,4 @@
-
-### Hi there, my name is Mike 👋
-## Data Analyst
+# Data Analyst
 
 
 
