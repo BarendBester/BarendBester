@@ -1,5 +1,5 @@
 # 🌟 Hallo, I'm Mike a **Software License Management | Data Analytics Enthusiast**  
-![GitHub Profile Picture](https://avatars.githubusercontent.com/u/121133689?v=4)
+
 ## 🌍 **Focus**  
 Leveraging **data insights** to enhance efficiency, streamline processes, and support sustainable growth.  
 🎓 **Background**  
