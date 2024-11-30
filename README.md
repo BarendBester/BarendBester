@@ -13,7 +13,7 @@ Experienced in Biological and Environmental Sciences, now thriving at the inters
 
 ### Featured Projects
 - [**Covid19-Data-Analysis**](https://github.com/BarendBester/Covid19-Data-Analysis): Brief description.
-- [**Aviation-Data-Analysis**](https://github.com/BarendBester/AviationData): Brief description.
+- [**Aviation-Data-Analysis**](https://github.com/BarendBester/AviationData): This analysis examines bird strikes on aircraft from 1990 to 2015 across various dimensions: 1. Aircraft Damage - Identifying commonly affected parts. 2. Species Involved - Determining the most frequently struck bird species using visualizations like bar plots or pie charts. 3. Phase of Flight - Analyzing when strikes are most likely during flight. 4. State and Operator - Exploring relationships through heatmaps and chi-square tests. 5. Bird Species vs. Year - Investigating trends using boxplots, violin plots, and Kruskal-Wallis tests.
 ---
 
 ## 📊 **Skills & Expertise**  
