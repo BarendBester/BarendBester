@@ -1,5 +1,6 @@
 # 🌟 Hallo, I'm Mike a **Software License Management | Data Analytics Enthusiast**  
-
+## 🌍 **Focus**  
+Leveraging **data insights** to enhance efficiency, streamline processes, and support sustainable growth.  
 🎓 **Background**  
 Experienced in Biological and Environmental Sciences, now thriving at the intersection of **data analytics** and **software license management**.  
 - 🎓 **Degrees:** BSc in Chemistry & Zoology + BSc Honours in Environmental Science  
@@ -27,24 +28,9 @@ Experienced in Biological and Environmental Sciences, now thriving at the inters
 
 ---
 
-## 🌍 **Focus**  
-Leveraging **data insights** to enhance efficiency, streamline processes, and support sustainable growth.  
-
----
-
-### 💡 **Cool Visual Ideas**  
-- 🎥 A minimalist GIF of data visualizations dynamically building  
-- 🕸️ An image of interconnected nodes (symbolizing software/data relationships)  
-- 🌄 A vibrant natural landscape nodding to environmental science roots  
-
----
 
 🚀 **Let’s Collaborate on Exciting Projects!**  
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BarendBester&show_icons=true&theme=radical" />
-
-
-
-
 
 -->
