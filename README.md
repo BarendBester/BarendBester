@@ -13,7 +13,7 @@ Experienced in Biological and Environmental Sciences, now thriving at the inters
 
 ### Featured Projects
 - [**Covid19-Data-Analysis**](https://github.com/BarendBester/Covid19-Data-Analysis): Brief description.
-- [**Another Project**](https://github.com/BarendBester/another-repo): Brief description.
+- [**Boats-Sales-Data-Analysis**](https://github.com/BarendBester/another-repo): Brief description.
 ---
 
 ## 📊 **Skills & Expertise**  
