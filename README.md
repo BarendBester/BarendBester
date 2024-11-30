@@ -7,9 +7,6 @@ Experienced in Biological and Environmental Sciences, now thriving at the inters
 - 🎓 **Degrees:** BSc in Chemistry & Zoology + BSc Honours in Environmental Science  
 - 🌿 **Expertise:** Data-driven research and ecosystem management  
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BarendBester&layout=compact&theme=radical)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BarendBester&theme=react-dark)
 
 ### Featured Projects
@@ -33,7 +30,7 @@ Experienced in Biological and Environmental Sciences, now thriving at the inters
 
 
 🚀 **Let’s Collaborate on Exciting Projects!**  
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BarendBester&layout=compact&theme=radical)
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BarendBester&show_icons=true&theme=radical" />
 
 -->
