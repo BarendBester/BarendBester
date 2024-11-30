@@ -12,7 +12,7 @@ Experienced in Biological and Environmental Sciences, now thriving at the inters
 ### Featured Projects
 
 - [**Covid19-Data-Analysis**](https://github.com/BarendBester/Covid19-Data-Analysis): This project analyzes COVID-19 data, focusing on infections, vaccinations, and deaths. Key questions include: **1. Highest Infection Percentage** - Identifying countries with the largest proportion of their population infected. **2. Lowest Infection Rate** - Highlighting countries with the smallest infection rates. **3. Impact of Vaccinations on Death Ratios** - Exploring whether higher vaccination rates correlate with lower death ratios, offering insights into the effectiveness of vaccination campaigns.
-- 
+
 - [**Aviation-Data-Analysis**](https://github.com/BarendBester/AviationData): This analysis examines bird strikes on aircraft from 1990 to 2015 across various dimensions: 1. Aircraft Damage - Identifying commonly affected parts. 2. Species Involved - Determining the most frequently struck bird species using visualizations like bar plots or pie charts. 3. Phase of Flight - Analyzing when strikes are most likely during flight. 4. State and Operator - Exploring relationships through heatmaps and chi-square tests. 5. Bird Species vs. Year - Investigating trends using boxplots, violin plots, and Kruskal-Wallis tests.
 ---
 
